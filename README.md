@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Priv
    Setelah perintah di atas dijalankan, ikuti instruksi pada layar.
 Anda akan diminta untuk membuat kata sandi. Pastikan untuk mengingat atau menyimpan kata sandi tersebut.
 Setelah proses selesai, simpan alamat node yang ditampilkan.
-
+Jangan lanjut Y dulu, langsung pergi ke dashboard.
 2. Hubungkan ke Dashboard Privanetix
 
    [Privanetix Node Dasboard](https://deepsea-beta.privasea.ai/privanetixNode)
